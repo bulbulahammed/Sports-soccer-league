@@ -1,0 +1,15 @@
+.team-area{
+    
+}
+.single-team{
+    border-radius: 5px;
+    text-align: center;
+    background-color:#fff;
+    margin-top:15px;
+    margin-bottom:15px;
+    padding-top:50px;
+    padding-bottom:50px;
+}
+.team-img img{
+    width: 100px;
+}
