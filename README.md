@@ -26,3 +26,7 @@ Here you can buy locker and repair locker.
 - npm install react-spring
 
 # Repository link & live link
+
+Code:  https://github.com/bulbulahammed/Sports-soccer-league
+
+Live:  https://sports-soccer-league.netlify.app/
